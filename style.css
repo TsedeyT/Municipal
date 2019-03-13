@@ -75,6 +75,12 @@ nav ul li a {
     text-transform: capitalize;
     font-size: 1.1rem;
 }
+nav ul li a:hover {
+	color: #BBB;
+	text-decoration: none;
+
+}
+
 
 .main-content{
 	min-height: 100vh;
