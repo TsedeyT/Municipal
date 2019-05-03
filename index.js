@@ -16,12 +16,8 @@ $(document).ready(function(){
     $('.mobile-menu__wrapper').toggleClass('open');
 
   });
-})
-
-
-
-
-$(document).ready(function() {
+  
+  
   $('.test').click(function(){
     $('.panel-collapse').toggleClass('show');
     $('.panel-heading').toggleClass('arrow-down');
